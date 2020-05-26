@@ -1,6 +1,5 @@
 console.log("Funcionando!")
 
-
 const intervalo = setInterval(() => {
     const header = document.querySelector("._3auIg")
 
