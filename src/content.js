@@ -15,7 +15,7 @@ const intervalo = setInterval(() => {
             const audios = document.querySelectorAll("audio")
 
             audios.forEach((audio) => {
-                audio.playbackRate = 1.5
+                audio.playbackRate = 2.0
             })
         })
 

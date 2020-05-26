@@ -22,13 +22,13 @@ Some styles in our extension, currently (v0.1) i just styled the button.
 
 You need to set your **Google Chrome's Developer Mode** on! After that, you just drag the files to the *chrome://extensions* page.
 
-![](images_readme/chrome_extension)
+![](images_readme/chrome_extension.png)
 
 ### Turning on
 
 Before you listen to an audio using your Whatsapp Web you have to click the button in the superior left corner of your screen, next to your profile picture and other buttons.
 
-![](images_readme/icon_whatsapp)
+![](images_readme/icon_whatsapp.png)
 
-
+*In others versions the button may be ">>>" instead "2x"!*
 
